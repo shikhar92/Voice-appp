@@ -37,7 +37,7 @@ setTimeout(function()
 {
 
 take_snapshot();
-
+save();
 },5000
 );
 }
